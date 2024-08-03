@@ -6,7 +6,7 @@ I'm a dedicated software developer and technical support engineer with a passion
 
 ### 🔧 Technologies & Tools
 
-- **Languages:** HTML, CSS, JavaScript, Python, PHP, Java, C#
+- **Languages:** HTML, CSS, JavaScript, Python, PHP, Java, C#, Kotlin, and more!
 - **Frameworks/Libraries:** Next.js, EJS, .NET, NodeJS
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, Azure, Linux, Windows
