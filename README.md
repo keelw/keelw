@@ -34,7 +34,7 @@ I'm currently expanding my knowledge in:
 
 - **Email:** [wjordankeel@gmail.com](mailto:wjordankeel@gmail.com)
 - **LinkedIn:** [linkedin.com/in/william-k-j](https://www.linkedin.com/in/william-k-j)
-- **GitHub:** [github.com/william-keel](https://github.com/william-keel)
+- **GitHub:** [github.com/keelw](https://github.com/william-keel)
 
 Feel free to reach out if you want to collaborate on a project or just chat about technology!
 
