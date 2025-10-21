@@ -38,7 +38,6 @@ My background bridges **software development**, **system administration**, and *
 ### 📚 Education
 
 - **Bachelor’s in Software Development** — *Brigham Young University–Idaho*  
-  *Expected December 2024*  
   Coursework focused on full-stack development, DevSecOps, cloud computing, and automation.  
 
 ---
